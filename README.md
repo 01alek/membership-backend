@@ -1,2 +1,2 @@
-# membership-backend
+# Club Membership Rest API
 Club Membership Rest API
